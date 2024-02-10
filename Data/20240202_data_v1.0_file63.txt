@@ -1,0 +1,49 @@
+A virtual reality headset (or VR headset) is a head-mounted device that provides virtual reality for the wearer. VR headsets are widely used with VR video games but they are also used in other applications, including  simulators and trainers. VR headsets typically include a  stereoscopic display (providing separate images for each eye), stereo sound, and sensors like accelerometers and gyroscopes for tracking the pose of the user's head to match the orientation of the virtual camera with the user's eye positions in the real world.Some VR headsets also have eye-tracking sensors and gaming controllers. The VR glasses use a technology called head-tracking, which changes the field of vision as a person turns their head. The technology may not be perfect, as there is latency if the head moves too fast. Still, it does offer an immersive experience.
+
+
+
+The Sega VR, announced in 1991 and seen in early 1993 at the Winter CES, was never released for consoles, but was utilized for the Sega VR-1 motion simulator arcade attraction in 1994. Another early VR headset, the Forte VFX1, was announced at CES in 1994. The VFX-1 has stereoscopic displays, 3-axis head-tracking, and stereo headphones. Sony, another pioneer, released the Glasstron in 1997, which has an optional positional sensor, allowing the wearer to view the surroundings, with the perspective moving as the user's head moves, giving a deep sense of immersion. These VR headsets gave MechWarrior 2 players a new visual perspective of seeing the battlefield from inside the cockpit of their craft. However, these early headsets failed commercially due to their limited technology, and they were described by John Carmack as like "looking through toilet paper tubes".In 2012, a crowdfunding campaign began for a VR headset known as Oculus Rift; the project was led by several prominent video game developers, including Carmack who later became the company's CTO. In March 2014, the project's parent company Oculus VR was acquired by Facebook for $2 billion. The final consumer-oriented release of Oculus Rift began shipping on 28 March 2016.In March 2014, Sony demonstrated a prototype headset for PlayStation 4, which was later named PlayStation VR. In 2014, Valve demonstrated some headset prototypes, which led to a partnership with HTC to produce the Vive, which focuses on "room scale" VR environments that users can naturally navigate within and interact with. The Vive was released in April 2016 and PlayStation VR in October 2016.Virtual reality headsets and viewers have also been designed for smartphones. Unlike headsets with integrated displays, these units are essentially enclosures which a smartphone can be inserted into. VR content is viewed from the screen of the device itself through lenses acting as a stereoscope, rather than using dedicated internal displays. Google released a series of specifications and associated DIY kits for virtual reality viewers known as Google Cardboard; these viewers are capable of being constructed using low-cost materials (and a smartphone with a gyroscope), such as cardboard (hence the naming).  Samsung Electronics partnered with Oculus VR to co-develop the Samsung Gear VR (which is only compatible with recent Samsung Galaxy devices), while LG Electronics developed a headset with dedicated displays for its LG G5 smartphone known as LG 360 VR. Asian hardware manufacturers like Xion and Kolke have developed inexpensive virtual reality headsets. In 2017, Chinese company Tencent announced it was preparing to launch its virtual reality headset that year. In 2019, Oculus and PlayStation VR dominated the VR headset market.In June 2019, Valve released their own headset, the Valve Index, without a partnership with HTC.
+
+
+
+
+
+
+Virtual reality headsets have significantly higher requirements for latency—the time it takes from a change in input to have a visual effect—than ordinary video games. If the system is too sluggish to react to head movement, then it can cause the user to experience virtual reality sickness, a kind of motion sickness. According to a Valve engineer, the ideal latency would be 7-15 milliseconds.The graphics processing unit (GPU) also needs to be powerful enough to render the required amount of frames. Oculus cited the limited processing power of Xbox One and PlayStation 4 as the reason why they targeted the PC gaming market with their first devices.Foveated rendering is a new technique to reduce the rendering workload. It uses eye tracking hardware to determine at what point the user is looking and reduces rendering resolution farther from the user's gaze. This can be unnoticeable to the user because human peripheral vision is far less sensitive than the fovea.
+
+
+
+There are different optics and visual qualities that will affect how the individual perceives the image quality and how they experience the virtual world. The image clarity depends on the display resolution, optic quality, refresh rate, and field of view.Because virtual reality headsets stretch a single display across a wide field of view (up to 110° for some devices according to manufacturers), the magnification factor makes flaws in display technology much more apparent. One issue is the so-called screen-door effect, where the gaps between rows and columns of pixels become visible, kind of like looking through a screen door. This was especially noticeable in earlier prototypes and development kits, which had lower resolutions than the retail versions.
+
+
+
+The lenses of the headset are responsible for mapping the up-close display to a wide field of view, while also providing a more comfortable distant point of focus. One challenge with this is providing consistency of focus: because eyes are free to turn within the headset, it is important to avoid having to refocus to prevent eye strain.
+Fresnel lenses are commonly used in virtual reality headsets due to their compactness and lightweight structure. The lenses do not use multiple pieces of material in their lenses like other lenses, but the lens will be broken down into sections, allowing the individual to have a wider range of view. The issue seen with the lens consists of seeing the ridges of the lenses when the headset is not properly aligned on the head.The lenses introduce distortion and chromatic aberration, which are typically corrected in software. The lenses can also be adjusted dynamically to account for a user's eyeglass prescription so that the user can use the headset without corrective eyeglasses.
+
+
+
+Motion capture was used by Nintendo's Wii game console by having the player use a controller to interact with the game of their choice, often sports games. Soon after the release of Nintendo's Wii, Microsoft's Xbox received a full-body reading system called Kinect compatible with Valve's modding system. Later, Sony released a similar motion capture device for their PlayStation named the PlayStation Move. These gaming devices use motion capture to control avatars within a game, where the player's movements are copied by the avatar to complete the game. This means that the player is not truly engaged in the virtual reality world.
+
+
+
+
+
+
+Virtual reality headsets are being currently used as a means to train medical students for surgery. It allows them to perform essential procedures in a virtual, controlled environment. Students perform surgeries on virtual patients, which allows them to acquire the skills needed to perform surgeries on real patients. It also allows the students to revisit the surgeries from the perspective of the lead surgeon.Traditionally, students had to participate in surgeries and often they would miss essential parts. Now, with the use of VR headsets, students can watch surgical procedures from the perspective of the lead surgeon without missing essential parts. Students can also pause, rewind, and fast-forward surgeries. They also can perfect their techniques in a real headset, mounted in a risk-free environment.Besides training purposes, augmented reality headsets are also already being used for image-guided surgery.VR headset mounted smartphones have been used to capture high-quality videos and images of the retina for documenting peripheral retinal lesions.
+
+
+
+Virtual reality headsets have been used by the United States Armed Forces. It is a particularly useful tool for training military personnel without putting them in harm's way.The virtual reality headset allows military personnel to interact with virtual reality people to make it feel real. They can talk to one another and do varying actions to make the virtual reality world feel like they are actually in the real world. There are also disadvantages and advantages when military personnel use the headset. The disadvantage is the headset is made for an indoor area, with a cool environment, and away from any heat, so when military personnel has just the headset on, no military equipment, it is not like their basic training. The advantages consist of repeating the situations multiple times and the cost of having the headset is less, due to no military equipment being needed.
+
+
+
+Augmented reality headset
+Curved screen
+List of virtual reality headsets
+
+
+
+
+
+
+ Media related to Virtual reality headsets at Wikimedia Commons

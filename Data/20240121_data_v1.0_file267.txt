@@ -1,0 +1,69 @@
+main heading: AUGMENTED REALITY
+Ramesh Raskar is a Massachusetts Institute of Technology associate professor and head of the MIT Media Lab's Camera Culture research group. Previously he worked as a senior research scientist at Mitsubishi Electric Research Laboratories (MERL) during 2002 to 2008. He holds 132 patents in computer vision, computational health, sensors and imaging. He received the $500K Lemelson–MIT Prize in 2016. The prize money will be used for launching REDX.io, a group platform for co-innovation in Artificial Intelligence. He is well known for inventing EyeNetra (mobile device to calculate spectacle glasses prescription), EyeCatra (cataract screening) and EyeSelfie (retinal imaging), Femto-photography (trillion frames per second imaging) and his TED talk for cameras to see around corners.In February 2020, Raskar and his team launched Private Kit: SafePaths, a public health tool for contact tracing for COVID-19 pandemic. He is also the Founder and Chief Scientist of PathCheck. He is a co-founder of Akasha.im which was acquired by Alphabet spin-off company Intrinsic.
+
+
+subheading: Early life and education
+Ramesh Raskar was born in Nashik, India and he finished his engineering education from College of Engineering, Pune. He finished his PhD at UNC Chapel Hill in 2002.
+
+
+subheading: Mitsubishi Electric Research Laboratories
+Raskar joined Mitsubishi Electric Research Laboratories in 2002. His significant contribution in computer vision and imaging domain led him to win 'TR 100' in 2004, 'The Global Indus Technovator Award' in 2004 respectively.
+
+
+subheading: MIT Media Lab
+Raskar joined MIT Media Lab in 2008. Raskar, together with others developed a computational display technology that allows observers with refractive errors, cataracts and some other eye disorders to perceive a focused image on a screen without wearing refraction-corrective spectacles. The technology uses a light field display in combination with customized filtering algorithms that pre-distort the presented content for the observer.His lab produced a number of extreme highspeed pictures using a femto-camera that took images at around one-trillion frames per second. They have also developed a camera to see around corners using bursts of laser light.Juliett Fiss has covered his role as the catalyst behind the Siggraph NEXT program at Siggraph 2015 in Los Angeles.Raskar was awarded the "2017 CG Achievement Award" by ACM SIGGRAPH for his potential contribution in computational photography and light transport and their applications for social impact.He has been influential in deploying research ideas in the real world. Startups created by members of his CameraCulture research group include EyeNetra.com (ophthalmic tests), Photoneo (high speed 3D sensing), Labby (AI for food testing), Lumii (novel printing for 3D imagery), LensBricks (computer vision with computational imaging), Tesseract (personalized display) and more. Non-profits emerging from his efforts include REDX.io (AI for Social Impact), MIT Emerging Worlds, LVP-MITra, REDX-WeSchool, DigitalImpactSquare and more.
+He serves on the Expert Commission of $3.5 Billion Botnar Fondation as AI and Health expert.
+
+
+subheading: Philosophies on innovation
+Raskar has presented a series of talks and workshops on innovation processes.
+They include his Idea Hexagon, How to give an engaging talk, How to prepare for a thesis, How to write a paper and the Spot-Probe method for problem-solution identification. In 2019, he presented doctoral hooding commencement speech at UNC Chapel Hill.Key ideas from his interview with Lemelson Foundation are as follows.
+
+Cleverness alone is not enough to become a good inventor
+Inventor's job is to think in an anti-disciplinary manner – look beyond disciplines
+The true power of an inventor is less about expertise on one subject, but rather the ability to ask questions no one else is asking and follow the trail of answers as they are revealed.
+The "spot probe" methodology is something every inventor needs to master. It is a continual cycle: Ask a lot of questions. Spot a lot of problems. Articulate those problems. Then probe their potential solutions.
+Solving big societal problems requires both passion and skill, but those qualities exist on two different axes. The hardest problems to work on are found where those two axes intersect – where passion meets skill.
+To make a grand difference, ensure the problem you're trying to solve is the right problem. Solve the right problems at the right time.
+Invention is all about people. If you don't work with the right people you don't get inspired to work in the right way.
+Difference between problem-solving and invention – working in isolation can just solve a problem, while to invent you need give and take.See the world in a new or different way, and great things will happen. The next generation of young inventors will then spot a whole new set of problems and probe for solutions that no one can begin to predict.
+
+
+subheading: Philosophy of DAPS/DOPS and its global impact
+In his recent talk, Raskar mentioned, "Instead of apps, let’s think about DAPS (Digital Applications for Physical Services) Or DOPS. If you want to make it broader, we can have DOPS (Digital Opportunities for Physical Services). With DOPS and DAPS we have an opportunity to impact the physical world in areas where we simply couldn’t before".
+
+
+subheading: REDX.io
+Raskar's philosophy on 'Learn, Think and Apply' encourages him to form REDX.io platform. REDX's goal is to promote peer to peer learning, peer to peer problem solving in more systematic ways! REDX labs are working on following keywords: Wearables, Agriculture, Camera, Health, Unorganized Sector, Satellite Imaging, Machine Learning, Mobile, Social Graph, Crowd Sourcing, Sensors. They are physical lab with very well-funded and innovators working with critical problems. REDX Mumbai is funded by TATA trust. DISQ in Nashik funded by TCS foundations, a multibillion-dollar lab. REDX lab in Brazil is well funded by local trust. REDX clubs operate as non-profit organizations. Innovators and their solutions have the opportunity to interact with other REDX clubs and work in REDX labs worldwide. The onboarding process to become a REDX club includes a 10-week course, appointing a board and an academic advisor, establishing a community coalition, and recruiting innovators and mentors. Clubs receive certification directly from Dr.Raskar.
+
+
+subheading: Awards and fellowships
+TR100 Award from Technology Review (recognizes top young innovators under the age of 35)
+The Global Indus Technovator Award (instituted at MIT to recognize the top 20 Indian technology innovators worldwide)
+MIT Sloan Research Fellowship
+DARPA Young Faculty Award
+LAUNCH Health Innovation Award, presented by NASA, USAID, US State Dept and NIKE
+PharmaVOICE 100
+Vodafone Wireless Innovation Project Award (first place)
+Lemelson–MIT Prize ($500,000)
+2017 ACM SIGGRAPH Achievement Award
+2019 Jack Dangermond Award $10,000 for GeoSpatial Research in a Journal Paper (for Street Address for All)
+
+
+subheading: References
+
+
+subheading: External links
+Inventor of Femto-Photography Ramesh Raskar
+Co-Founder of Kumbhathon Ventures Dr. Ramesh Raskar
+Founder of EyeNetra Ramesh Raskar
+TEDMED Talk on "How do we look at the future of health with both eyes" by Dr.Ramesh Raskar
+Dr. Ramesh Raskar's Homepage at MIT Media Lab
+Dr. Ramesh Raskar's Publications at MIT Media Lab
+Interview by Popular Photography on "What Photography Will Look Like By 2060 ?"
+Interview by MIT Technology Review on the "Future of Computational Photography"
+Co-Inventor of EyeSelfie ( Self Directed Eye Alignment using Reciprocal Eye Box Imaging )  at MIT Media Lab
+Director of MIT Media Lab Camera Culture Group.
+REDDIT AMA with Prof. Ramesh Raskar – Holder of more than 50 patents
+Reddit AMA Conversation Extract
+[1]

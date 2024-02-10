@@ -1,0 +1,18 @@
+An ARTag is a fiducial marker system to support 3D registration (alignment) and pose tracking in augmented reality.  They can be used to facilitate the appearance of virtual objects, games, and animations within the real world.  Like the earlier ARToolKit system, they allow for video tracking capabilities that calculate a camera's position and orientation relative to physical markers in real time.  Once the camera's position is known, a virtual camera can be positioned at the same point, revealing the virtual object at the location of the ARTag.  It thus addresses two of the key problems in Augmented Reality: viewpoint tracking and virtual object interaction.
+An ARTag appears on the Mars Science Laboratory.
+A similar technique is being used by NASA's Spacecraft 3D smartphone app as an educational outreach tool.ARTag is supported by the open source Goblin XNA software.
+
+
+
+Augmented reality
+ARToolKit
+
+
+
+
+
+
+ARTag - Background and description of the original implementation of ARTag at Canada's National Research Council (NRC) (currently unavailable)
+ARTag Revision 1. A Fiducial Marker System Using Digital Techniques - Fiala, M., November 2004
+ARToolKit - GNU License software library for building Augmented Reality (AR) applications
+Marker Tracking and HMD Calibration for a Video-based Augmented Reality Conferencing System - Kato, H., IWAR - International Symposium on Mixed and Augmented Reality, 1999

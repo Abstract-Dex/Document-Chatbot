@@ -1,0 +1,41 @@
+The AI era, also known as the AI revolution, is the ongoing period of global transition of the human economy and society towards post-scarcity economics and post-labor society enabled by artificial intelligence. Many have suggested that this period started around the early 2020s, with the release of generative AI models including large language models such as ChatGPT, which replicated aspects of human cognition, reasoning, attention, creativity and general intelligence commonly associated with human abilities. This enabled software programs that were capable of replacing or augmenting humans in various domains that traditionally required human reasoning and cognition, such as writing, translation, and computer programming.The AI revolution could mark a major turning point in human history, comparable to the invention of the Internet, electricity and the Industrial Revolution,, technologies which have impacted virtually every industry and facet of life. It may also mark a major turning point in the billions of years of history of life and evolution towards the development of artificial life, artificial general intelligence and superintelligence, comparable to the Cambrian explosion or the evolution of multicellular life.
+
+
+
+The AI revolution was primarily driven by the convergence of technological advancements, the existence of large datasets, and the availability of advanced and affordable computing power. These factors played a critical role in enabling the development of large AI models, which have significantly advanced the field of artificial intelligence.
+
+
+
+
+The AI era was catalyzed by key technological developments, including breakthroughs in machine learning algorithms, notably deep learning, which enabled computers to analyze and learn from large datasets with unprecedented efficiency. Key advancements included:
+
+Transformer architecture: Enabled the scalability of large-language models with unsupervised learning on large-scale datasets, largely sourced from the Internet, training language models on how to write congruent human-like text, and powering technologies such as ChatGPT.Reinforcement learning from human feedback: Enabled the alignment of AI models through human feedback, creating AI assistants capable of solving problems or completing tasks when prompted by humans.
+
+
+
+The availability of large datasets has been a crucial factor in the AI revolution. These datasets, often sourced from the Internet, provide the vast amount of information needed to train and refine AI models through unsupervised learning. The diversity and size of these datasets have enabled the development of more accurate and robust AI systems, capable of handling complex tasks and making better predictions.The Internet was largely responsible for this exponential growth in data, creating a primary source of diverse and extensive data, including accessible public databases and user-generated content from social media, online forums, news, and other digital platforms such as Wikipedia
+
+
+
+The growth of AI has been propelled by significant advancements in computing technology, particularly in the areas of GPUs (Graphics Processing Units) and TPUs (Tensor Processing Units). These specialized processors are capable of handling the complex calculations required for AI algorithms, especially in deep learning.
+
+
+
+Artificial intelligence has had a significant impact on humanity, including discussions on redefining what it means to be a human during an era in which artificial intelligence surpasses expert-human level abilities in a wide and general variety of skills, leading to a situation where humans may no longer need or be able to work.In a 2023 report from ResumeBuilder, more than one-third (37%) of business leaders claimed AI replaced workers in 2023. In 2023, Asana, a project management and collaboration software company, found in a survey that 29% of employees say their work tasks are replaceable with AI. AI systems have already started to replace entire job categories where AIs exhibit super-human abilities such as translation, and writing.
+In a study by OpenAI, a leading company in the development of artificial general intelligence and the developer of ChatGPT, conducted a research report that found humans labeled 15 occupations (such as mathematicians, tax preparers, writers & authors, Web and digital interface designers) as fully exposed when combined with GPT-powered software, whereas the GPT-4 model itself labeled 86 occupations as fully exposed.There have been significant numbers of proponents of a move towards a universal basic income in order to cope with the predicted wide-scale loss of jobs as AI becomes more advanced and capable.There has been significant concern of potential extinction of humans due to unaligned AI models. Some examples of concerns include the potential abilities of AI models to create novel pathogens with high infectiousness and mortality that could lead to the collapse of human society.Physicist Stephen Hawking, Microsoft founder Bill Gates, and SpaceX founder Elon Musk have expressed concerns about the possibility that AI could develop to the point that humans could not control it, and that this could spell the end of the human race.
+
+
+
+A number of frontier AI companies including OpenAI, Meta AI and Google DeepMind have stated their primary missions are to develop artificial general intelligence, which is either a type of artificial intelligence that can out-compete humans at most economically valuable tasks, or a type capable of recursive self-improvement, enabling it to learn or program new capabilities that it did not originally have.OpenAI is working on learning how to align a superintelligence smarter than the humans creating it, a concept referred to as superalignment.
+
+
+
+AI boom, the ongoing period of rapid short-term progress in artificial intelligence
+AI winter, a period of reduced funding and interest in artificial intelligence research
+Artificial general intelligence
+Superintelligence
+Technological singularity
+Artificial consciousness
+Technological unemployment
+History of artificial intelligence
+Industrial Revolution
